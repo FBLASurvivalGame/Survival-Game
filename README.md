@@ -1,2 +1,2 @@
-# Survival-Gmae
+# Survival-Game
 survival game
